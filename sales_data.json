@@ -1,0 +1,30 @@
+[
+    {
+        "Date": "2025-01-01",
+        "Region": "North",
+        "Product": "Tea",
+        "Quantity": 100,
+        "Revenue": 1200
+    },
+    {
+        "Date": "2025-01-02",
+        "Region": "South",
+        "Product": "Coffee",
+        "Quantity": 150,
+        "Revenue": 2000
+    },
+    {
+        "Date": "2025-01-03",
+        "Region": "East",
+        "Product": "Green Tea",
+        "Quantity": 80,
+        "Revenue": 1000
+    },
+    {
+        "Date": "2025-01-04",
+        "Region": "West",
+        "Product": "Black Tea",
+        "Quantity": 90,
+        "Revenue": 1100
+    }
+]

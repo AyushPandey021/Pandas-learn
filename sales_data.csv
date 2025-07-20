@@ -1,0 +1,11 @@
+Date,Product,Category,Quantity,Price,Total,Region
+2024-07-01,Chai Masala,Tea,10,50,500,North
+2024-07-01,Green Tea,Tea,5,70,350,South
+2024-07-02,Black Coffee,Coffee,8,80,640,East
+2024-07-02,Coffee Beans,Coffee,4,120,480,West
+2024-07-03,Chai Masala,Tea,12,50,600,North
+2024-07-03,Green Tea,Tea,6,70,420,South
+2024-07-04,Black Coffee,Coffee,10,80,800,East
+2024-07-04,Coffee Beans,Coffee,7,120,840,West
+2024-07-05,Chai Masala,Tea,15,50,750,North
+2024-07-05,Green Tea,Tea,4,70,280,South

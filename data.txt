@@ -1,0 +1,15 @@
+1- Understand the data set 
+2- identify theproblem 
+3- plan next steps 
+
+
+
+topics of pandas we cover⭐
+⭐ how to import data files like : CSV,EXCEL,JSON and Read it.
+⭐how to create data set object and save it in file , formet EXCEL ,CSV,JSON 
+⭐ use info() mathod 
+⭐use head() and tail() mathod
+⭐
+⭐
+⭐
+⭐
