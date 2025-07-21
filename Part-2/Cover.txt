@@ -1,0 +1,8 @@
+⭐Adding Coloum and and values in coloumr
+⭐Insert the data in Coloum location, name and data 
+
+
+⭐Update the all coloum data and , update the specific index data and 
+⭐Removeing data and removeing coloum
+⭐Missing data understand and manage , fill and remove
+⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐⭐

@@ -1,0 +1,1 @@
+df.drop(columns=["Performance_Score","Age","Employee-ID"], inplace=True)

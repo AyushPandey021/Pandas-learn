@@ -1,0 +1,6 @@
+Data cleaning
+NaN- not a number
+none- for object data types 
+ isnull(
+  True- NaN
+  false -value is present )

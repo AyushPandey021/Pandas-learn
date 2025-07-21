@@ -38,8 +38,10 @@ data = {
     "Salary": [60000, 60000, 40000, 35000, 40000, 23000, 54000, 74000, 32000, 21000],
     "Performance_Score": [85, 90, 32, 45, 75, 76, 87, 78, 97, 56],  # fixed here
 }
+# Access row by index
 
 df = pd.DataFrame(data)
+
 
 # Employees with salary > 50000
 highSalary = df[df["Salary"] > 50000]
@@ -55,3 +57,5 @@ print(filter)
 filteror = df[(df["Age"] > 35) | (df["Performance_Score"] > 90)]
 print("\nEmployees older than 35 or Performance Score > 90")
 print(filteror)
+
+
