@@ -1,1 +1,1 @@
-df.drop(columns=["Performance_Score","Age","Employee-ID"], inplace=True)
+print(df.sort_values(by="Experience_Years", ascending=True))

@@ -3,6 +3,7 @@ aggregation mathod help and performing mathametical equation in data set
  df["Coloumn Name"].sum()
 df["coloum Name"].mean()
 min()
+count() # count the null and not none vlaues
 max()
 """
 
