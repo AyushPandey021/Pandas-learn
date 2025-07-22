@@ -1,1 +1,0 @@
-df["Name"].fillna(df["Aysuh"], inplace=True)
