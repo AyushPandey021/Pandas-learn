@@ -1,5 +1,5 @@
-#dropna()
 import pandas as pd
+
 data = {
     "Name": [
         "Ram",
@@ -20,12 +20,6 @@ data = {
 
 df = pd.DataFrame(data)
 print(df)
-df.dropna(inplace=True )
+
+df.dropna(inplace=True)
 print(df)
-
-df.dropna(inplace= True)
-# dropna mathod for remove the value properly 
-
-
-print(df)
-

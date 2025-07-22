@@ -24,14 +24,22 @@ print(df)
 
 # df.fillna(0,inplace= True)
 # fillna for fill the data 
-df['Age'].fillna(df['Age'].mean(),inplace=True)
-df['Salary'].fillna(df['Salary'].mean(),inplace=True)
-df['Performance_Score'].fillna(df['Performance_Score'].mean(),inplace=True)
-#its only help to filling value not correct but any its filled and not error values 
+# df['Age'].fillna(df['Age'].mean(),inplace=True)
+# df['Salary'].fillna(df['Salary'].mean(),inplace=True)
+# df['Performance_Score'].fillna(df['Performance_Score'].mean(),inplace=True)
+ 
+
+#  fill the missing data ⏭️
+df["Name"].fillna("Ayush", inplace=True)
+df["Age"].fillna(23,inplace=True)
+df["Salary"].fillna(35000,inplace=True)
+
+
+
 print(df)
 
 
 
 
 
-# time 26
+
