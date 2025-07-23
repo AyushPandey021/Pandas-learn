@@ -6,13 +6,11 @@
 import pandas as pd
 
 df_customers = pd.DataFrame(
-    {"CustomerID ": [1, 2, 3], "Name": ["Ramesh", "Suresh", "Kalpesh"]}
+    {"CustomerID": [1, 2, 3], "Name": ["Ramesh", "Suresh", "Kalpesh"]}
 )
 # order dataframe
 df_orders = pd.DataFrame({"CustomerID": [1, 2, 4], "OrderAmount": [250, 450, 350]})
-# marge
-df_marged = pd.merge(df_customers, df_orders, on="CustomerID", how="right")
+# merge
+df_merged = pd.merge(df_customers, df_orders, on="CustomerID", how="right")
 print("right join ")
-print(df_marged)
-
-df_orders = pd.Dataframe
+print(df_merged)
