@@ -9,8 +9,18 @@ df = pd.read_csv("Pandas/Part-1/Whatsapp_chat.csv", encoding="latin1")
 # importing Excel file ⏭️
 # df = pd.read_excel("Pandas/sales_data.xlsx")
 # importing the json file⏭️
+df_cleaned = df.drop('Unnamed: 0', axis=1)
+
+print(df_cleaned)
 
 
-print(df.isna())
+
+
+
+
+
+
+
+
 
 
